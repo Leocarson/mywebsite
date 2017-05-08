@@ -18,11 +18,16 @@ a:active {
 #Center{
   text-align: center;
 }
-#Center-image{
+#Center-imageb{
   width: 50%;
   display: block;
   margin: 0 auto;
 
+}
+#Center-image{
+    width: 150%;
+    display: block;
+    margin: 0 auto;
 }
 h1{
   text-align: center;
