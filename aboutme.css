@@ -32,10 +32,12 @@ a:active {
 
 }
 h1{
-  text-align: center;
+  text-align: right;
+  padding: 20;
 }
 h2{
-  text-align: center;
+  text-align: right;
+  padding: 20;
 }
 body{
   background: #16bffd; /* fallback for old browsers */
